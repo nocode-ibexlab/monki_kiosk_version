@@ -1,6 +1,6 @@
 {
   "monki_version": {
-    "updated_version": "1.0",
+    "updated_version": 1.0,
     "download_link_windows":"https://drive.google.com/file/d/15XwGQRi0EptFs6dcyzxpRSPp4q6_hB1c/view?usp=share_link",
     "bug_fixes": ["Updated the admin, Added new features"]
   }
